@@ -1,15 +1,18 @@
 # Kodluyoruz İlk Repo
-### Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
 # Installation
-### Öncelikle projeyi clonelayın.
+
+Öncelikle projeyi clonelayın.
 
 [Git Clone](https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)
 
 
 # Useage
-###Proje clonlandıktan sonra Visual Studio Code programında açınız.
+
+Proje clonlandıktan sonra Visual Studio Code programında açınız.
 
 
 
