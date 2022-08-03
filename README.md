@@ -14,7 +14,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Proje clonlandıktan sonra Visual Studio Code programında açınız.
 
-''' Linux için 
 
 
 # Contributing
