@@ -18,7 +18,7 @@ Proje clonlandıktan sonra Visual Studio Code programında açınız.
 
 # Contributing
 
-
+Pull requesler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tarttışmak için bir konu açınız.
 
 # Licance
 
