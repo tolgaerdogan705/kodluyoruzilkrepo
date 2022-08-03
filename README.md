@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ------------------------------------------------------------------
 # Installation
 Öncelikle projeyi clonelayın.
