@@ -15,7 +15,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Licance
 
 
-[MIT Licance] (https://github.com/tolgaerdogan705/kodluyoruzilkrepo/blob/main/LICENSE)
+[MIT Licance](https://github.com/tolgaerdogan705/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ------------------------------------------------------------------
 ![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
