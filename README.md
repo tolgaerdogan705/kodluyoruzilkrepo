@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Installation
 Öncelikle projeyi clonelayın.
 
-[git clone](https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)
+[Git Clone](https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)
 
 # Useage
 
@@ -15,7 +15,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Licance
 
 
-MIT
+[MIT Licance] (https://github.com/tolgaerdogan705/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ------------------------------------------------------------------
 ![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
