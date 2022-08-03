@@ -10,7 +10,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 [Git Clone](https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)
 
 
-# Useage
+# Usage
 
 Proje clonlandıktan sonra Visual Studio Code programında açınız.
 
