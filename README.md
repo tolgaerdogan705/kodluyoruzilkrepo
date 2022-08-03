@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. içerisinde bir adet READM
 
 Öncelikle projeyi clonelayın.
 
- ``` Git Clone https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)  ```
+ ``` Git Clone (https://github.com/tolgaerdogan705/kodluyoruzilkrepo.git)  ```
 
 
 # Usage
